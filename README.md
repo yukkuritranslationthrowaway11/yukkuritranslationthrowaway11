@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @yukkuritranslationthrowaway11, Miss Inaba.
+- 👋 Hi, I’m Miss Inaba @yukkuritranslationthrowaway11. I was previously on gitlab, also as Miss Inaba @yukkuritranslationthrowaway11, but lost access to it, so I made a github to continue my projects.
 - 👀 I’m interested in yukkuri projects.
